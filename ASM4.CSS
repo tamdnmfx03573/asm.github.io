@@ -1,0 +1,255 @@
+@media only screen and (max-width:767px){
+.navbar-toggler{
+    border:none!important;
+}
+.navbar-brand{
+    color:dodgerblue !important;
+    font-weight: bold;
+    font-size: 150%;
+}
+.heading{
+    text-align: center;
+    padding:5% 0%;
+}
+footer{
+    background-color: #000000;
+    color: #d3d3d3 !important;
+    font-size: 80%;
+    padding: 2% 5%; 
+}
+.form-inline{
+    font-size: 80%;
+    justify-content: center;
+} 
+input[type=email-footer] {
+    background-color: #000000;
+    color: white;
+    border: none;
+}
+#button-footer{
+    background-color:white;
+    font-size: 80%;
+}
+.page-end{
+    border-top: 1px solid white !important;
+    background-color: black;
+    color: #d3d3d3 !important;
+    font-size: 80%;
+    text-align: center;
+}
+/* home */
+.aboutus1{
+    font-size: 24px;
+}
+.container{
+    padding-bottom: 20px !important;
+}
+
+.background-img-business{
+    background-image: url("./YE6srBq.jpg");
+    padding:20% 10% 10% 40%;
+    text-align: center;
+    font-size: 80% !important;
+    color:white;
+}
+
+#img-business-1,#img-business-2{
+    position: absolute;
+    border-radius: 50%;
+    margin-left: -20%;
+    margin-top: 20%;
+}
+/* home-end */
+.fa-window-minimize{
+    color:dodgerblue;
+}
+}
+
+    @media screen and (min-width:768px) and (max-width:991px){
+        .custom-nav{
+            background-color:dodgerblue;
+        }
+        .navbar{
+            margin: 0 auto;
+        }
+        .navbar-brand{
+            color:white !important;
+            font-weight: bold;
+            padding:10px 0px
+        }
+        a.nav-link{
+            color:white !important;
+        }
+        #active-home{
+            color:orange !important;
+        }
+        a:active {
+            color: yellow !important;
+        }
+        .fa-search{
+            color: white;
+        }
+        .heading{
+            text-align: center;
+            padding:5% 0%;
+        }
+
+        .custom-footer{
+            background-color: #000000;
+        }
+        footer{
+            color: #d3d3d3 !important;
+            margin: 0 auto;
+            padding: 20px 0px;
+        }
+        .form-inline{
+            font-size: 80%;
+            justify-content: center;
+        } 
+        input[type=email-footer] {
+            background-color: #000000;
+            color: white;
+            border: none;
+        }
+
+        #button-footer{
+            background-color:white;
+            margin-left: -50px;
+        }
+        .page-end{
+            border-top: 1px solid white !important;
+            background-color: black;
+            color: #d3d3d3 !important;
+            font-size: 80%;
+            text-align: center;
+        }
+    /* home */
+    .custom-aboutus{
+        padding: 5%;
+        font-size: 14px;
+    }
+    .aboutus1{
+        font-size: 22px;
+    }
+    .background-img-business{
+        background-image: url("./YE6srBq.jpg");
+        padding:10% 5% 10% 15%;
+        text-align: left;
+        font-size: 80%;
+        color:white;
+    }
+    
+    #img-business-1,#img-business-2{
+        position: absolute;
+        border-radius: 50%;
+        margin-left: -10%;
+    }
+    /* home-end */
+
+    .fa-window-minimize{
+        color:dodgerblue;
+    }
+    }
+        @media only screen and (min-width:992px){
+        .custom-nav{
+            background-color:dodgerblue;
+        }
+        .navbar{
+            margin: 0 auto;
+            width: 60%;
+        }
+        .navbar-brand{
+            color:white !important;
+            font-weight: bold;
+            padding:10px 0px
+        }
+        a.nav-link{
+            color:white !important;
+            font-size: 60%;
+        }
+        #active-home{
+            color:orange !important;
+        }
+        a:active {
+            color: yellow !important;
+        }
+        .fa-search{
+            color: white;
+            font-size: 70%;
+        }
+        .heading{
+            text-align: center;
+            padding:5% 0%;
+        }
+
+        .custom-footer{
+            background-color: #000000;
+        }
+        footer{
+            color: #d3d3d3 !important;
+            margin: 0 auto;
+            width:60%;
+            padding: 20px 0px;
+        }
+        .form-inline{
+            font-size: 80%;
+            justify-content: center;
+        } 
+        input[type=email-footer] {
+            background-color: #000000;
+            color: white;
+            border: none;
+        }
+
+        #button-footer{
+            background-color:white;
+            font-size: 80%;
+        }
+        .page-end{
+            border-top: 1px solid white !important;
+            background-color: black;
+            color: #d3d3d3 !important;
+            font-size: 80%;
+            text-align: center;
+        }
+        /* home */
+        .custom-aboutus{
+            margin: 0 auto;
+            width: 60%;
+            padding: 10px 0px;
+        }
+        .img-1{
+            padding: 0% !important;
+        }
+        .custom-ourbusiness{
+            margin: 0px 0px !important;
+        }
+        .background-img-desktop{
+            background-image: url("./YE6srBq.jpg");
+            padding:2% 0% 0% 5%;
+            font-size: 90%;
+            color:white;
+        }
+        
+        #img-business-1,#img-business-2{
+            position: absolute;
+            margin-left: -13%;
+            border-radius: 50%;
+        }
+        .custom-news{
+            margin: 0 auto;
+            width: 60%;
+            padding: 10px 0px;
+        }
+        .custom-contact{
+            margin: 0 auto;
+            width: 60%;
+            padding: 10px 0px;
+        /* home-end */
+        .fa-window-minimize{
+            color:dodgerblue;
+        }
+        p{
+            font-size: 13px;
+        }
+        }
