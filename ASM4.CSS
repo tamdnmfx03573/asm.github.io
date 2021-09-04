@@ -46,7 +46,7 @@ input[type=email-footer] {
 }
 
 .background-img-business{
-    background-image: url("./YE6srBq.jpg");
+    background-image: url("YE6srBq.jpg");
     padding:20% 10% 10% 40%;
     text-align: center;
     font-size: 80% !important;
@@ -183,10 +183,10 @@ input[type=email-footer] {
         }
 
         .custom-footer{
-            background-color: #000000;
+            background-color: #000000 !important;
         }
         footer{
-            color: #d3d3d3 !important;
+            color: white !important;
             margin: 0 auto;
             width:60%;
             padding: 20px 0px;
@@ -200,11 +200,11 @@ input[type=email-footer] {
             color: white;
             border: none;
         }
-
         #button-footer{
-            background-color:white;
-            font-size: 80%;
+            background-color:white !important;
+            margin-left: -50px;
         }
+
         .page-end{
             border-top: 1px solid white !important;
             background-color: black;
@@ -212,6 +212,7 @@ input[type=email-footer] {
             font-size: 80%;
             text-align: center;
         }
+
         /* home */
         .custom-aboutus{
             margin: 0 auto;
@@ -245,10 +246,13 @@ input[type=email-footer] {
             margin: 0 auto;
             width: 60%;
             padding: 10px 0px;
+        }
+
         /* home-end */
         .fa-window-minimize{
             color:dodgerblue;
         }
+
         p{
             font-size: 13px;
         }
